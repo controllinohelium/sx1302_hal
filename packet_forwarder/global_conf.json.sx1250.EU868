@@ -3,7 +3,7 @@
         "spidev_path": "/dev/spidev0.0",
         "lorawan_public": true,
         "clksrc": 0,
-        "antenna_gain": 0, /* antenna gain, in dBi */
+        "antenna_gain": 2.2, /* antenna gain, in dBi */
         "full_duplex": false,
         "precision_timestamp": {
             "enable": false,
